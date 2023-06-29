@@ -4,18 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Outside of AI, I enjoy lifting weights, playing [tennis](/about/jeonggu) <font size="1">and pickleball</font>, Formula 1, Indycar, board games, video games, [painting](/about/misul), eating, and the occasional [karaoke](/about/nolaebang).
+Outside of research, I enjoy lifting weights, playing [tennis](/about/jeonggu) <font size="1">and pickleball</font>, Formula 1, Indycar, board games, video games, [painting](/about/misul), eating, and the occasional [karaoke](/about/nolaebang).
 
 
 #### Cringey philosophy and cognitive science inspired comics:
 ---
-
 ![room](../assets/images/room.png){: width="60%" height="auto"}
-
 ![meat](../assets/images/meat.png){: width="60%" height="auto"}
-
 ![putnam](../assets/images/putnam.png){: width="75%" height="auto"}
-
 ![frog](../assets/images/frog.png){: width="60%" height="auto"}
 
 
