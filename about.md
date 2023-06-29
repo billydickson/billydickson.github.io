@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Outside of research, I enjoy lifting weights, playing [tennis](/about/jeonggu) <font size="1">and pickleball</font>, Formula 1, Indycar, board games, video games, [painting](/about/misul), eating, and the occasional [karaoke](/about/nolaebang).
+Outside of research, I enjoy lifting weights, playing [tennis](/about/jeonggu) <font size="1">and pickleball</font>, Formula 1, IndyCar, board games, video games, [painting](/about/misul), eating, and the occasional [karaoke](/about/nolaebang).
 
 
 #### Cringey philosophy and cognitive science inspired comics:
