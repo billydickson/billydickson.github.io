@@ -9,10 +9,10 @@ Outside of research, I enjoy lifting weights, playing [tennis](/about/jeonggu) <
 
 #### Cringey philosophy and cognitive science inspired comics:
 ---
-![room](../assets/images/room.png){: width="60%" height="auto"}
-![meat](../assets/images/meat.png){: width="60%" height="auto"}
-![putnam](../assets/images/putnam.png){: width="75%" height="auto"}
-![frog](../assets/images/frog.png){: width="60%" height="auto"}
+![room](../assets/images/room.jpg){: width="60%" height="auto"}
+![meat](../assets/images/meat.jpg){: width="60%" height="auto"}
+![putnam](../assets/images/putnam.jpg){: width="75%" height="auto"}
+![frog](../assets/images/frog.jpg){: width="60%" height="auto"}
 
 
 #### Books of various genres I've enjoyed reading (or listening to) lately:
