@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Welcome to the Gradient Olympics!"
-date:   2023-07-06
+title:  "Welcome to the restaurant!"
+date:   2023-07-07
 categories: welcome
 ---
 
