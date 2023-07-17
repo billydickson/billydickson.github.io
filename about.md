@@ -23,6 +23,10 @@ Snow Crash - Neal Stephenson
 
 Foundation - Isaac Asimov
 
+The Blade Itself - Joe Abercrombie
+
+Roadside Picnic - Boris Strugatsky & Arkady Strugatsky
+
 Dune - Frank Herbert
 
 World War Z - Max Brooks
