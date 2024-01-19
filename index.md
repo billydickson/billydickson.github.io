@@ -7,6 +7,22 @@ layout: home
 ![prof](../assets/images/prof.png){: width="20%" height="auto"}
 ![brrrr](../assets/images/brrrr.jpg){: width="250" height="auto"}
 
-Hi, I'm Billy. I'm doing my PhD in computer science with [Zoran Tiganj](https://homes.luddy.indiana.edu/ztiganj/) at Indiana University working on cognitively inspired deep networks. I'm particularly interested in utilizing cognitive models of human memory to improve large language models. 👻
+Hi, I'm Billy. I'm doing my PhD in computer science and cognitive science with [Zoran Tiganj](https://homes.luddy.indiana.edu/ztiganj/) at Indiana University working on cognitively inspired deep learning and natural language processing. I'm particularly interested in drawing inspiration from how human memory works in order to improve large language models. 👻
 
-Previously, I did my master's in computational linguistics at Indiana University with [Damir Cavar](https://damir.cavar.me/) in the [NLP Lab](https://nlp-lab.org/) working on temporal and event reasoning, and before that I did my bachelor's at Michigan State University where I studied linguistics, Chinese, and Korean, and did a summer language program at Harbin Institute of Technology.
+I did my master's in computational linguistics at Indiana University with [Damir Cavar](https://damir.cavar.me/) in the [NLP Lab](https://nlp-lab.org/) working on temporal and event reasoning and knowledge representations, and before that I did my bachelor's at Michigan State University where I studied linguistics, TESOL, Chinese, and Korean, and did a summer language program at Harbin Institute of Technology.
+
+Publications:
+
+[[pdf]](https://sigsem.uvt.nl/isa18/ISA-18_32_Paper.pdf) Damir Cavar, Ali Aljubailan, Ludovic Mompelat, Yuna Won, Billy Dickson, Matthew Fort, Andrew Davis and Soyoung Kim (2022) Event Sequencing Annotation with TIE-ML (2022) in proceedings of the The Eighteenth Joint ACL - ISO Workshop on Interoperable Semantic Annotation (ISA-18 2022), at LREC 2022 in Marsaille, France.
+
+[[pdf]](https://arxiv.org/abs/2109.13892) D. Cavar, B. Dickson, A. Aljubailan, S. Kim (2021) Temporal Information and Event Markup Language: TIE-ML Markup Process and Schema Version 1.0, In Proceedings of SEMAPRO 2021, Barcelona, Spain.
+
+Presentations:
+
+[[pdf]](https://nlp-lab.org/timeevents/TIEML_Poster_8_27.pdf) B. Dickson, S. Kim, D. Cavar, A. Aljubailan (2021) Temporal Information and Event Markup Language (TIE ML), Poster, Indiana University at Bloomington.
+
+Teaching:
+
+Spring 2022, Fall 2023, Spring 2023, Lead Associate Instructor, Data Mining (Indiana University)
+
+Spring 2020, Co-Instructor, Adult Communicative Focused English (Michigan State University)

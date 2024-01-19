@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Outside of research, I enjoy lifting weights, playing [tennis](/about/jeonggu) <font size="1">and pickleball</font>, Formula 1, IndyCar, board games, video games, [painting](/about/misul), trying to cook, and the occasional [karaoke](/about/nolaebang).
+Outside of research, I enjoy lifting weights, playing [tennis](/about/jeonggu), squash, and badminton, Formula 1, IndyCar, board games, [card games](https://en.onepiece-cardgame.com/events/list.php?category=competitive), video games, [painting](/about/misul), trying to cook, and the occasional [karaoke](/about/nolaebang).
 
 #### Books of various genres I've enjoyed reading (or listening to) lately:
 ---
@@ -21,9 +21,15 @@ Use of Weapons - Iain M. Banks
 
 Snow Crash - Neal Stephenson
 
-Foundation - Isaac Asimov
+Norwegian Wood - Haruki Murakami
+
+Project Hail Mary - Andy Weir
 
 The Blade Itself - Joe Abercrombie
+
+Before They Hanged - Joe Abercrombie
+
+Last Argument of Kings - Joe Abercrombie
 
 Roadside Picnic - Boris Strugatsky & Arkady Strugatsky
 
