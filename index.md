@@ -19,7 +19,7 @@ Publications:
 
 Presentations:
 
-[[pdf]](https://nlp-lab.org/timeevents/TIEML_Poster_8_27.pdf) B. Dickson, S. Kim, D. Cavar, A. Aljubailan (2021) Temporal Information and Event Markup Language (TIE ML), Poster, Indiana University at Bloomington.
+[[pdf]](https://nlp-lab.org/timeevents/TIEML_Poster_8_27.pdf) B. Dickson, S. Kim, D. Cavar, A. Aljubailan (2021) Temporal Information and Event Markup Language (TIE-ML), Poster, Indiana University at Bloomington.
 
 [[pdf]](../assets/Dickson_Time_CKLiC_21.pdf) B. Dickson (2021) A Simple Annotation Schema for Temporal Expressions, Presentation, Central Kentucky Linguistics Conference.
 
