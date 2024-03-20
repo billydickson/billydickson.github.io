@@ -26,6 +26,6 @@ Presentations:
 
 Teaching:
 
-Spring 2022, Fall 2023, Spring 2023, Lead Associate Instructor, Data Mining (Indiana University)
+Spring 2022, Fall 2023, Spring 2024, Lead Associate Instructor, Data Mining (Indiana University)
 
 Spring 2020, Co-Instructor, Adult Communicative Focused English (Michigan State University)
