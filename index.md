@@ -18,6 +18,7 @@ Publications:
 [[pdf]](https://arxiv.org/abs/2109.13892) D. Cavar, B. Dickson, A. Aljubailan, and S. Kim (2021) Temporal Information and Event Markup Language: TIE-ML Markup Process and Schema Version 1.0, In Proceedings of SEMAPRO 2021, Barcelona, Spain.
 
 Presentations:
+
 [[pdf]](https://nlp-lab.org/publications/Ellipsis_IU.pdf) D. Cavar, M. S. Abdo, and B. Dickson (2024) Ellipsis in Arabic: Using Machine Learning to Detect and Predict Elided Words. Paper presented at the Arabic Linguistic Society (ASAL) 37 Conference, February 2024, New York City.
 
 [[pdf]](https://nlp-lab.org/timeevents/TIEML_Poster_8_27.pdf) B. Dickson, S. Kim, D. Cavar, and A. Aljubailan (2021) Temporal Information and Event Markup Language (TIE-ML), Poster, Indiana University at Bloomington.
