@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Outside of research, I enjoy lifting weights, playing [tennis](/about/jeonggu), squash, and badminton, Formula 1, IndyCar, board games, [card games](https://en.onepiece-cardgame.com/events/list.php?category=competitive), video games, [painting](/about/misul), trying to cook, and the occasional [karaoke](/about/nolaebang).
+Outside of research, I enjoy lifting weights, playing [tennis](/about/jeonggu), Formula 1, [card games](https://en.onepiece-cardgame.com/events/list.php?category=competitive), video games, [painting](/about/misul), and the occasional [karaoke](/about/nolaebang).
 
 #### Books of various genres I've enjoyed reading (or listening to) lately:
 ---
