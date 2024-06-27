@@ -7,11 +7,13 @@ layout: home
 ![prof](../assets/images/prof.png){: width="20%" height="auto"}
 ![brrrr](../assets/images/brrrr.jpg){: width="250" height="auto"}
 
-Hi, I'm Billy. I'm doing my PhD in computer science and cognitive science with [Zoran Tiganj](https://homes.luddy.indiana.edu/ztiganj/) at Indiana University working on cognitively inspired deep learning and natural language processing. I'm particularly interested in utilizing cognitive models of human memory to improve large language models, and developing cognitively inspired benchmarks for evaluating state of the art large language models. 👻
+Hi, I'm Billy. I'm doing my PhD in computer science and cognitive science with [Zoran Tiganj](https://homes.luddy.indiana.edu/ztiganj/) at Indiana University working on deep learning and natural language processing. I'm particularly interested in utilizing cognitive models of human memory to improve large language models, and developing cognitively inspired benchmarks for evaluating state of the art large language models. 👻
 
 I did my master's in computational linguistics at Indiana University with [Damir Cavar](https://damir.cavar.me/) in the [NLP Lab](https://nlp-lab.org/) working on temporal and event reasoning and knowledge representations, and before that I did my bachelor's at Michigan State University where I studied linguistics, TESOL, Chinese, and Korean, and did a summer language program at Harbin Institute of Technology.
 
 Publications:
+
+[[pdf]](https://openpublishing.library.umass.edu/scil/article/id/2147/) D. Cavar, Z. Tiganj, L. Mompelat, and B. Dickson, (2024) “Computing Ellipsis Constructions: Comparing Classical NLP and LLM Approaches”, Society for Computation in Linguistics 7(1), 217–226.
 
 [[pdf]](https://sigsem.uvt.nl/isa18/ISA-18_32_Paper.pdf) D. Cavar, A. Aljubailan, L. Mompelat, Y. Won, B. Dickson, M. Fort, A. Davis, and S. Kim (2022) Event Sequencing Annotation with TIE-ML, In proceedings of the The Eighteenth Joint ACL - ISO Workshop on Interoperable Semantic Annotation (ISA-18 2022), at LREC 2022 in Marsaille, France.
 
@@ -27,6 +29,6 @@ Presentations:
 
 Teaching:
 
-Spring 2022, Fall 2023, Spring 2024, Lead Associate Instructor, Data Mining (Indiana University)
+Spring 2022, Fall 2023, Spring 2024, Associate Instructor, Data Mining (Indiana University)
 
 Spring 2020, Co-Instructor, Adult Communicative Focused English (Michigan State University)

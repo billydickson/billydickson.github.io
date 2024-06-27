@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Outside of research, I enjoy lifting weights, playing [tennis](/about/jeonggu), Formula 1, [card games](https://en.onepiece-cardgame.com/events/list.php?category=competitive), video games, [painting](/about/misul), and the occasional [karaoke](/about/nolaebang).
+Outside of research, I enjoy lifting weights, playing [tennis](/about/jeonggu), Formula 1, card games, video games, [art](/about/misul), and the occasional [karaoke](/about/nolaebang).
 
-#### Books of various genres I've enjoyed reading (or listening to) lately:
+#### Books of various genres I've liked reading (or listening to) lately:
 ---
 
 Neuromancer - William Gibson
@@ -21,7 +21,7 @@ Use of Weapons - Iain M. Banks
 
 Snow Crash - Neal Stephenson
 
-Norwegian Wood - Haruki Murakami
+Norwegian Wood 🟩 - Haruki Murakami
 
 Project Hail Mary - Andy Weir
 
@@ -59,11 +59,15 @@ The Language Game - Morten H. Christiansen & Nick Chater
 
 The Mind is Flat - Nick Chater
 
+Logicomix - Apostolos Doxiadis, Christos Papadimitriou & Alekos Papadatos
+
 [The Mind's I](/about/i) - Douglas R. Hofstadter & Daniel C. Dennett
+
+Meditations - Marcus Aurelius
 
 Rebooting AI - Gary Marcus & Ernest Davis
 
-#### Cringey philosophy and cognitive science inspired comics:
+#### Really cringey philosophy and cognitive science inspired comics:
 ---
 <br>
 
@@ -82,3 +86,9 @@ Rebooting AI - Gary Marcus & Ernest Davis
 [Perdurantism](https://en.wikipedia.org/wiki/Perdurantism#%253A~%253Atext%253DPerdurantism%2520or%2520perdurance%2520theory%2520is%252Cperdurantism%2522%2520and%2520%2522exdurantism%2522.)
 
 ![frog](../assets/images/frog.jpg){: width="60%" height="auto"}
+
+---
+
+<br>
+
+![gojo](../assets/images/gojo.jpg){: width="15%" height="auto"}
