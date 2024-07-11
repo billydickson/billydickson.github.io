@@ -69,7 +69,7 @@ Meditations - Marcus Aurelius
 
 Rebooting AI - Gary Marcus & Ernest Davis
 
-#### Cringey philosophy and cognitive science inspired comics:
+#### Really cringey philosophy and cognitive science inspired comics:
 ---
 <br>
 
@@ -93,4 +93,4 @@ Rebooting AI - Gary Marcus & Ernest Davis
 
 <br>
 
-![gojo](../assets/images/gojo.jog){: width="15%" height="auto"}
+![gojo](../assets/images/gojo.jpg){: width="15%" height="auto"}
