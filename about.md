@@ -69,26 +69,6 @@ Meditations - Marcus Aurelius
 
 Rebooting AI - Gary Marcus & Ernest Davis
 
-#### Really cringey philosophy and cognitive science inspired comics:
----
-<br>
-
-[Chinese Room](https://plato.stanford.edu/entries/chinese-room/)
-
-![room](../assets/images/room.jpg){: width="60%" height="auto"}
-
-[Made of Meat](https://youtu.be/7tScAyNaRdQ)
-
-![meat](../assets/images/meat.jpg){: width="60%" height="auto"}
-
-[Twin Earth](https://plato.stanford.edu/entries/content-externalism/#ArguForContExte)
-
-![putnam](../assets/images/putnam.jpg){: width="75%" height="auto"}
-
-[Perdurantism](https://en.wikipedia.org/wiki/Perdurantism#%253A~%253Atext%253DPerdurantism%2520or%2520perdurance%2520theory%2520is%252Cperdurantism%2522%2520and%2520%2522exdurantism%2522.)
-
-![frog](../assets/images/frog.jpg){: width="60%" height="auto"}
-
 ---
 
 <br>
