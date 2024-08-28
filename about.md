@@ -76,3 +76,5 @@ Rebooting AI - Gary Marcus & Ernest Davis
 <br>
 
 ![gojo](../assets/images/gojo.jpg){: width="15%" height="auto"}
+
+![gilin](../assets/images/gilin.jpg){: width="25%" height="auto"}
