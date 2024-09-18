@@ -13,7 +13,7 @@ I did my master's in computational linguistics at Indiana University with [Damir
 
 Publications:
 
-[[pdf]](https://osf.io/preprints/psyarxiv/pcmrj) Dickson, B., Maini, S. S., Nosofsky, R., & Tiganj, Z. (2024, July 4). Comparing Perceptual Judgments in Large Multimodal Models and Humans. https://doi.org/10.31234/osf.io/pcmrj
+[[pdf]](https://osf.io/preprints/psyarxiv/pcmrj) Dickson, B., Maini, S. S., Nosofsky, R., & Tiganj, Z. (2024). Comparing Perceptual Judgments in Large Multimodal Models and Humans. https://doi.org/10.31234/osf.io/pcmrj
 
 [[pdf]](https://openpublishing.library.umass.edu/scil/article/id/2147/) Cavar, D., Tiganj, Z., Mompelat, L. V. & Dickson, B., (2024) “Computing Ellipsis Constructions: Comparing Classical NLP and LLM Approaches”, *Society for Computation in Linguistics* 7(1), 217–226. doi: https://doi.org/10.7275/scil.2147
 
@@ -23,15 +23,21 @@ Publications:
 
 Presentations:
 
-[[pdf]](https://nlp-lab.org/publications/Ellipsis_IU.pdf) Cavar, D., Abdo, M. S., & Dickson, B. (2024). *Ellipsis in Arabic: Using machine learning to detect and predict elided words*. Paper presented at the 37th Conference of the Arabic Linguistic Society (ASAL), February 2024, New York City.
+[[pdf]](../assets/dickson_maini_rocks_poster.pdf) Dickson, B., Maini, S. S., & Tiganj, Z. (2024). Comparing LLMs and Cognitive Models of Memory [Poster presentation]. Midwest Speech & Language Days, Ann Arbor, MI, United States.
 
-[[pdf]](https://nlp-lab.org/timeevents/TIEML_Poster_8_27.pdf) Dickson, B., Kim, S., Cavar, D., & Aljubailan, A. (2021). *Temporal information and event markup language (TIE-ML)*. Poster session presented at Indiana University, Bloomington.
+[[pdf]](../assets/dickson_maini_rocks_poster.pdf) Dickson, B., Maini, S. S., Nosofsky, R., & Tiganj, Z. (2024). Comparing perceptual judgments in large multimodal models and humans [Poster presentation]. Midwest Computer Vision Workshop, Bloomington, IN, United States.
 
-[[pdf]](../assets/Dickson_Time_CKLiC_21.pdf) Dickson, B. (2021). *A simple annotation schema for temporal expressions*. Presentation at the Central Kentucky Linguistics Conference.
+[[pdf]](../assets/dickson_maini_rocks_poster.pdf) Dickson, B., Maini, S. S., Nosofsky, R., & Tiganj, Z. (2024). Comparing perceptual judgments in large multimodal models and humans [Poster presentation]. Midwest Computer Vision Workshop, Bloomington, IN, United States.
+
+[[pdf]](https://nlp-lab.org/publications/Ellipsis_IU.pdf) Cavar, D., Abdo, M. S., & Dickson, B. (2024, March). Ellipsis in Arabic: Using machine learning to detect and predict elided words [Paper presentation]. 37th Conference of the Arabic Linguistic Society (ASAL), New York City, NY, United States.
+
+[[pdf]](https://nlp-lab.org/timeevents/TIEML_Poster_8_27.pdf) Dickson, B., Kim, S., Cavar, D., & Aljubailan, A. (2021). Temporal information and event markup language (TIE-ML) [Poster presentation]. Indiana University, Bloomington, IN, United States.
+
+[[pdf]](../assets/Dickson_Time_CKLiC_21.pdf) Dickson, B. (2021, April). A simple annotation schema for temporal expressions [Presentation]. Central Kentucky Linguistics Conference, Lexington, KY, United States.
 
 Teaching:
 
-Summer 2024, Generative AI and Symbolic Knowledge Representations: Large Language Models, Knowledge, and Reasoning (ESSLLI 2024, Leuven, Belgium)
+Summer 2024, [Generative AI and Symbolic Knowledge Representations: Large Language Models, Knowledge, and Reasoning](https://damir.cavar.me/ESSLLI24_LLM_KG.github.io/) (ESSLLI 2024, Leuven, Belgium)
 
 Spring 2022, Fall 2023, Spring 2024, Fall 2024, Associate Instructor, Data Mining (Indiana University)
 
