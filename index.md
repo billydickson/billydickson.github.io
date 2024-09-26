@@ -2,7 +2,6 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-# [[pdf]](../assets/SITH_POSTER_UofM.pdf) Dickson, B., Maini, S. S., & Tiganj, Z. (2024). Comparing LLMs and Cognitive Models of Memory [Poster presentation]. Midwest Speech & Language Days, Ann Arbor, MI, United States.
 
 layout: home
 ---
@@ -29,7 +28,7 @@ Publications:
 
 Presentations:
 
-Dickson, B., Maini, S. S., & Tiganj, Z. (2024). Comparing LLMs and Cognitive Models of Memory [Poster presentation]. Midwest Speech & Language Days, Ann Arbor, MI, United States.
+[[pdf]](../assets/SITH_POSTER_UofM.pdf) Dickson, B., Maini, S. S., & Tiganj, Z. (2024). Comparing LLMs and Cognitive Models of Memory [Poster presentation]. Midwest Speech & Language Days, Ann Arbor, MI, United States.
 
 [[pdf]](../assets/dickson_maini_rocks_poster.pdf) Dickson, B., Maini, S. S., Nosofsky, R., & Tiganj, Z. (2024). Comparing perceptual judgments in large multimodal models and humans [Poster presentation]. Midwest Computer Vision Workshop, Bloomington, IN, United States.
 
