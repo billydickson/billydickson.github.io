@@ -13,7 +13,7 @@ Hi, I'm Billy. I'm doing my PhD in computer science with [Zoran Tiganj](https://
 
 I did my master's in computational linguistics at Indiana University with [Damir Cavar](https://damir.cavar.me/) in the [NLP Lab](https://nlp-lab.org/) working on temporal and event reasoning and knowledge representations, and before that I did my bachelor's at Michigan State University where I studied linguistics, TESOL, Chinese, and Korean, and did a summer language program at Harbin Institute of Technology.
 
-In Review:
+Under Review:
 
 [[pdf]](https://osf.io/preprints/psyarxiv/pcmrj) [[website]](https://cognlp.com) [[code]](https://github.com/cogneuroai/multimodal-models-rock) Dickson, B., Maini, S. S., Nosofsky, R., & Tiganj, Z. (under review). Comparing Perceptual Judgments in Large Multimodal Models and Humans. Submitted to Behavior Research Methods. https://doi.org/10.31234/osf.io/pcmrj
 

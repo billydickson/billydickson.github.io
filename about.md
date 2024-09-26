@@ -71,6 +71,32 @@ Meditations - Marcus Aurelius
 
 Rebooting AI - Gary Marcus & Ernest Davis
 
+The Little Schemer - Daniel P. Friedman & Matthias Felleisen
+
+The Little Learner - Daniel P. Friedman & Anurag Mendhekar
+
+Essentials of Programming Lanugages - Daniel P. Friedman & Mitchell Wand
+
+Essentials of Compilation: An Incremental Approach in Racket - Jeremy G. Siek
+
+---
+
+#### My favorite YouTube resources
+
+[Machine Learning Street Talk](https://www.youtube.com/@MachineLearningStreetTalk)
+
+[Latent Space Podcast](https://www.youtube.com/@LatentSpaceTV)
+
+[Lex Fridman](https://youtube.com/@lexfridman)
+
+[Andrej Karpathy](https://www.youtube.com/andrejkarpathy)
+
+[Yannic Kilcher](https://www.youtube.com/@YannicKilcher)
+
+[Daniel Han (Unsloth)](https://youtu.be/pRM_P6UfdIc?si=PVTvVdUsS1YiWzz_)
+
+[3Blue1Brown](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+
 ---
 
 <br>
