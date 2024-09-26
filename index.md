@@ -6,7 +6,7 @@
 
 layout: home
 ---
-![prof](../assets/images/prof.png){: width="20%" height="auto"}
+![prof](../assets/images/prof2.jpg){: width="20%" height="auto"}
 ![brrrr](../assets/images/brrrr.jpg){: width="250" height="auto"}
 
 Hi, I'm Billy. I'm doing my PhD in computer science with [Zoran Tiganj](https://homes.luddy.indiana.edu/ztiganj/) at Indiana University, focusing on deep learning and natural language processing. On the pre-training side, I'm exploring ways to improve the efficiency and performance of large language models by incorporating compressive memory, particularly drawing inspiration from cognitive models of human memory. On the post-training side, I'm interested in evaluating the performance of large language models on tasks related to syntactic and semantic reasoning, and assessing the similarity between large multimodal models and humans on tasks inspired from cognitive science.  Additionally, I'm broadly interested in retrieval augmented generation (RAG) and investigating how to integrate knowledge representations with large language models to enhance their understanding and inference capabilities.
