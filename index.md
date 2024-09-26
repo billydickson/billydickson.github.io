@@ -13,9 +13,13 @@ Hi, I'm Billy. I'm doing my PhD in computer science with [Zoran Tiganj](https://
 
 I did my master's in computational linguistics at Indiana University with [Damir Cavar](https://damir.cavar.me/) in the [NLP Lab](https://nlp-lab.org/) working on temporal and event reasoning and knowledge representations, and before that I did my bachelor's at Michigan State University where I studied linguistics, TESOL, Chinese, and Korean, and did a summer language program at Harbin Institute of Technology.
 
-Publications:
+In Review:
 
-[[pdf]](https://osf.io/preprints/psyarxiv/pcmrj) Dickson, B., Maini, S. S., Nosofsky, R., & Tiganj, Z. (2024). Comparing Perceptual Judgments in Large Multimodal Models and Humans. https://doi.org/10.31234/osf.io/pcmrj
+[[pdf]](https://osf.io/preprints/psyarxiv/pcmrj) [[website]](https://cognlp.com) [[code]](https://github.com/cogneuroai/multimodal-models-rock) Dickson, B., Maini, S. S., Nosofsky, R., & Tiganj, Z. (under review). Comparing Perceptual Judgments in Large Multimodal Models and Humans. Submitted to Behavior Research Methods. https://doi.org/10.31234/osf.io/pcmrj
+
+[[code]](https://github.com/cogneuroai/time-local-transformer) Dickson, B., Mochizuki-Freeman, J., Kabir, M. R., & Tiganj, Z. (under review). Time-local Transformer. Submitted to Computational Brain & Behavior.
+
+Publications:
 
 [[pdf]](https://openpublishing.library.umass.edu/scil/article/id/2147/) Cavar, D., Tiganj, Z., Mompelat, L. V., & Dickson, B. (2024). Computing Ellipsis Constructions: Comparing Classical NLP and LLM Approaches. Society for Computation in Linguistics, 7(1), 217-226. https://doi.org/10.7275/scil.2147
 
