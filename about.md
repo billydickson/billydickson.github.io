@@ -93,11 +93,11 @@ Essentials of Compilation: An Incremental Approach in Racket - Jeremy G. Siek
 
 [Yannic Kilcher](https://www.youtube.com/@YannicKilcher)
 
-[Daniel Han (Unsloth)](https://youtu.be/pRM_P6UfdIc?si=PVTvVdUsS1YiWzz_)
+[Daniel Han](https://youtu.be/pRM_P6UfdIc?si=PVTvVdUsS1YiWzz_)
 
 [3Blue1Brown](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 
-[George Hotz (tinygrad)](https://www.youtube.com/@geohotarchive)
+[George Hotz](https://www.youtube.com/@geohotarchive)
 
 ---
 
