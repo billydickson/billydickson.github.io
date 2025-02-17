@@ -12,10 +12,9 @@ Hi, I'm Billy. I'm doing my PhD in computer science with [Zoran Tiganj](https://
 
 My current research involves:
 
- - Investigating effects of incorporating compressive memory in LLMs during pre-training
- - Evaluating and comparing large multimodal model inference capabilities with humans
-
-I think that scalable, general-purpose learning is enabled through introducing minimal inductive bias in models (see [The Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)), but I also find the [virtuous circle](https://deepmind.google/discover/blog/ai-and-neuroscience-a-virtuous-circle/) between AI and cognitive science can be a helpful guide when developing novel architectural innovations.
+ - Long context modeling with compressive memory
+ - Evaluating large multimodal model inference capabilities
+ - In-context learning 
 
 I did my master's in computational linguistics at Indiana University with [Damir Cavar](https://damir.cavar.me/) in the [NLP Lab](https://nlp-lab.org/), and before that I did my bachelor's at Michigan State University where I studied linguistics, TESOL, Chinese, and Korean, and did a summer language program at Harbin Institute of Technology.
 
