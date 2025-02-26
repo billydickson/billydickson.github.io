@@ -12,9 +12,14 @@ Hi, I'm Billy. I'm doing my PhD in computer science with [Zoran Tiganj](https://
 
 My current research involves:
 
- - Long context modeling with compressive memory
- - Evaluating large multimodal model inference capabilities
- - In-context learning 
+ - Long-context modeling
+ - Efficient attention
+ - Downstream evaluation of large multimodal models
+ - In-context learning & interpretability
+
+I'm also interested in: 
+
+ - infrastructure for training on lots and lots and lots of gpus (e.g., [ultrascale-playbook](https://huggingface.co/spaces/nanotron/ultrascale-playbook), and [BLOOM](https://huggingface.co/blog/bloom-megatron-deepspeed))
 
 I did my master's in computational linguistics at Indiana University with [Damir Cavar](https://damir.cavar.me/) in the [NLP Lab](https://nlp-lab.org/), and before that I did my bachelor's at Michigan State University where I studied linguistics, TESOL, Chinese, and Korean, and did a summer language program at Harbin Institute of Technology.
 
