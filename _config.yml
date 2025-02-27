@@ -33,6 +33,12 @@ theme: minima
 plugins:
   - jekyll-feed
 
+# Explicitly define which pages to include in the header navigation
+# This will override the default behavior of including all pages with layout: page
+header_pages:
+  # Add any pages you want in the header here
+  # For example: - path/to/page.md
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
