@@ -2,9 +2,6 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-# [[website]](https://cognlp.com) 
-
-
 layout: home
 ---
 ![prof](../assets/images/prof2.jpg){: width="20%" height="auto"}
@@ -49,6 +46,9 @@ Spring 2020, Adult Communicative Focused English (Michigan State University)
 Education:
 
 PhD, Computer Science, Cognitive Science, Indiana University, ~2027
+
 MS, Computer Science, Indiana University, 2025
+
 MS, Computational Linguistics, Indiana University, 2022
+
 BA, Linguistics, Michigan State University, 2020
