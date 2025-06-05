@@ -47,8 +47,11 @@ Education:
 
 PhD, Computer Science, Cognitive Science, Indiana University, ~2027
 
+
 MS, Computer Science, Indiana University, 2025
 
+
 MS, Computational Linguistics, Indiana University, 2022
+
 
 BA, Linguistics, Michigan State University, 2020
