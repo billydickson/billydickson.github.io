@@ -13,17 +13,22 @@ My current research involves:
 
  - Long-context modeling
  - Efficient attention
- - Downstream evaluation of large language models and large multimodal models
+ - State-space models
+ - Evaluation of large language model alignment with human data
 
-I'm also interested in: 
+I'm also broadly interested in: 
 
+ - Self-supervised world models (e.g., [V-JEPA 2](https://ai.meta.com/blog/v-jepa-2-world-model-benchmarks/))
+ - LLMs and robots (e.g., [Gemini Robotics](https://deepmind.google/discover/blog/gemini-robotics-brings-ai-into-the-physical-world/))
  - Infrastructure for training on lots and lots and lots of gpus (e.g., [ultrascale-playbook](https://huggingface.co/spaces/nanotron/ultrascale-playbook), and [BLOOM](https://huggingface.co/blog/bloom-megatron-deepspeed))
+ - Adverse Drug Event detection
+ - Knowledge graphs, ontologies, and RAGs
 
 I did my master's in computational linguistics at Indiana University with [Damir Cavar](https://damir.cavar.me/) in the [NLP Lab](https://nlp-lab.org/) working on applied NLP with knowledge graphs, ontologies, LLMs, and RAGs, and before that I did my bachelor's at Michigan State University where I studied linguistics, TESOL, Chinese, and Korean, and did a summer language program at Harbin Institute of Technology.
 
 Publications:
 
-[[pdf]](https://osf.io/preprints/psyarxiv/pcmrj)[[code]](https://github.com/cogneuroai/multimodal-models-rock) Dickson, B., Maini, S. S., Sanders, C., Nosofsky, R., & Tiganj, Z. (In Press). Comparing Perceptual Judgments in Large Multimodal Models and Humans. Behavior Research Methods. https://doi.org/10.31234/osf.io/pcmrj
+[[pdf]](https://osf.io/preprints/psyarxiv/pcmrj)[[code]](https://github.com/cogneuroai/multimodal-models-rock)[[website](https://cognlp.com)] Dickson, B., Maini, S. S., Sanders, C., Nosofsky, R., & Tiganj, Z. (In Press). Comparing Perceptual Judgments in Large Multimodal Models and Humans. Behavior Research Methods. https://doi.org/10.31234/osf.io/pcmrj
 
 [[pdf]](https://aclanthology.org/2024.smm4h-1.27.pdf) Davis, A., Dickson, B., Kubler, S. (2024). A Two-Stage NLP System for Extracting and Normalizing Adverse Drug Events from Tweets. Proceedings of the 9th Social Media Mining for Health Research and Applications (SMM4H 2024) Workshop and Shared Tasks. 
 
