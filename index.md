@@ -28,7 +28,7 @@ I did my master's in computational linguistics at Indiana University with [Damir
 
 Publications:
 
-[[pdf]](https://osf.io/preprints/psyarxiv/pcmrj)[[code]](https://github.com/cogneuroai/multimodal-models-rock)[[website]](https://cognlp.com) Dickson, B., Maini, S. S., Sanders, C., Nosofsky, R., & Tiganj, Z. (In Press). Comparing Perceptual Judgments in Large Multimodal Models and Humans. Behavior Research Methods. https://doi.org/10.31234/osf.io/pcmrj
+[[pdf]](https://link.springer.com/article/10.3758/s13428-025-02728-w)[[code]](https://github.com/cogneuroai/multimodal-models-rock)[[website]](https://cognlp.com) Dickson, B., Maini, S. S., Sanders, C., Nosofsky, R., & Tiganj, Z. Comparing Perceptual Judgments in Large Multimodal Models and Humans. Behavior Research Methods 57, 203 (2025). https://doi.org/10.3758/s13428-025-02728-w
 
 [[pdf]](https://aclanthology.org/2024.smm4h-1.27.pdf) Davis, A., Dickson, B., Kubler, S. (2024). A Two-Stage NLP System for Extracting and Normalizing Adverse Drug Events from Tweets. Proceedings of the 9th Social Media Mining for Health Research and Applications (SMM4H 2024) Workshop and Shared Tasks. 
 
