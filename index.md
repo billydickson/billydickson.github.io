@@ -29,7 +29,7 @@ I did my master's in computational linguistics at Indiana University with [Damir
 ---
 
 
-Publications & Presentations:
+Posters & Publications:
 
 [[pdf]](../assets/Time_local_transformer.pdf)[[code]](https://github.com/cogneuroai/time-local-transformer) Dickson, B., Mochizuki-Freeman, J., Kabir, MR., & Tiganj, Z. (in press). Time-local Transformer. Computational Brain and Behavior. 
 
