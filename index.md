@@ -31,7 +31,7 @@ I did my master's in computational linguistics at Indiana University with [Damir
 
 Publications & Presentations:
 
-[[pdf]](../assets/Time_local_transformer.pdf)[[code]](https://github.com/cogneuroai/time-local-transformer) Dickson, B., Mochizuki-Freeman, J., Kabir, MR., Tiganj, Z. (in press). Time-local Transformer. Computational Brain and Behavior. 
+[[pdf]](../assets/Time_local_transformer.pdf)[[code]](https://github.com/cogneuroai/time-local-transformer) Dickson, B., Mochizuki-Freeman, J., Kabir, MR., & Tiganj, Z. (in press). Time-local Transformer. Computational Brain and Behavior. 
 
 [[pdf]](https://link.springer.com/article/10.3758/s13428-025-02728-w)[[code]](https://github.com/cogneuroai/multimodal-models-rock)[[website]](https://cognlp.com) Dickson, B., Maini, S. S., Sanders, C., Nosofsky, R., & Tiganj, Z. Comparing Perceptual Judgments in Large Multimodal Models and Humans. Behavior Research Methods 57, 203 (2025). https://doi.org/10.3758/s13428-025-02728-w
 
