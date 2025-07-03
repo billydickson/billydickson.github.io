@@ -14,7 +14,7 @@ PhD student in computer science at Indiana University with [Zoran Tiganj](https:
 Research Interests:
 
  - Long-context modeling, efficient attention, state-space models, hybrid models.
- - Evaluating multimodal large language models on human data.
+ - Evaluating multimodal large language model capabilities.
 
 Applied Interests:
 
@@ -31,7 +31,7 @@ I did my master's in computational linguistics at Indiana University with [Damir
 
 Posters & Publications:
 
-[[pdf]]()[[code]]() Dickson, B., Mochizuki-Freeman, J., Kabir, MR., & Tiganj, Z. (in press). Time-local Transformer. Computational Brain and Behavior. 
+Dickson, B., Mochizuki-Freeman, J., Kabir, MR., & Tiganj, Z. (in press). Time-local Transformer. Computational Brain and Behavior. 
 
 [[pdf]](https://link.springer.com/article/10.3758/s13428-025-02728-w)[[code]](https://github.com/cogneuroai/multimodal-models-rock)[[website]](https://cognlp.com) Dickson, B., Maini, S. S., Sanders, C., Nosofsky, R., & Tiganj, Z. Comparing Perceptual Judgments in Large Multimodal Models and Humans. Behavior Research Methods 57, 203 (2025). https://doi.org/10.3758/s13428-025-02728-w
 
