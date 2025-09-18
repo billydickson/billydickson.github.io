@@ -25,6 +25,7 @@ I did a master's in computational linguistics at Indiana University with [Damir 
 
 ---
 
+
 Primary Research:
 
 **Time-Local Transformer** [[pdf]](https://link.springer.com/article/10.1007/s42113-025-00253-9)[[code]](https://github.com/cogneuroai/time-local-transformer) Dickson, B., Mochizuki-Freeman, J., Kabir, M.R., Tiganj, Z. Time-Local Transformer. Comput Brain Behav (2025). https://doi.org/10.1007/s42113-025-00253-9
@@ -32,6 +33,7 @@ Primary Research:
 **Comparing Perceptual Judgments in Large Multimodal Models and Humans** [[pdf]](https://link.springer.com/article/10.3758/s13428-025-02728-w)[[code]](https://github.com/cogneuroai/multimodal-models-rock)[[website]](https://cognlp.com) Dickson, B., Maini, S. S., Sanders, C., Nosofsky, R., & Tiganj, Z. Comparing Perceptual Judgments in Large Multimodal Models and Humans. Behavior Research Methods 57, 203 (2025). https://doi.org/10.3758/s13428-025-02728-w
 
 ---
+
 
 Teaching:
 
@@ -44,6 +46,7 @@ Spring 2022, Fall 2023, Spring 2024, Fall 2024, Spring 2025, Assistant Instructo
 Spring 2020, Adult Communicative Focused English (Michigan State University)
 
 ---
+
 
 Education:
 
