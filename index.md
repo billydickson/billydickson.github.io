@@ -13,7 +13,7 @@ Hi, I'm a PhD student in computer science at Indiana University working with [Zo
 
 Research Interests:
 
- - long-context modeling, hybrid models, large multimodal models.
+ - long-context modeling, hybrid models, large multimodal models
 
 Applied Interests:
 
