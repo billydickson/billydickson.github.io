@@ -13,11 +13,12 @@ Hi, I'm a PhD student in computer science at Indiana University working with [Zo
 
 Research Interests:
 
- - long-context modeling, hybrid models, in-context learning
+ - attention, memory, long-context modeling, hybrid models, cognitive science
 
-Applied Interests:
+More Interests:
 
- - llm training methodology, distributed training, retrieval, "context engineering"
+ - llm training methodology, open models, distributed training, retrieval 
+ - prepretraining, pretraining, postprepreposttraining, mid-training 
 
 Previously: 
 
