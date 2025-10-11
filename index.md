@@ -17,7 +17,7 @@ Research Interests:
 
 More Interests:
 
- - llm training methodology, open models, distributed training, retrieval 
+ - llm training methodology, architecture, open models, distributed training, retrieval 
  - prepretraining, pretraining, postprepreposttraining, mid-training
 
 Previously: 
