@@ -11,7 +11,7 @@ dicksonb [at] iu [dot] edu
 
 Hi, I'm a PhD student in computer science at Indiana University working with [Zoran Tiganj](https://homes.luddy.indiana.edu/ztiganj/).
 
-Research Interests:
+Interests:
 
  - attention, memory, long-context modeling, hybrid models, cognitive science
 
