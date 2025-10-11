@@ -18,7 +18,7 @@ Research Interests:
 More Interests:
 
  - llm training methodology, open models, distributed training, retrieval 
- - prepretraining, pretraining, postprepreposttraining, mid-training 
+ - prepretraining, pretraining, postprepreposttraining, mid-training
 
 Previously: 
 
@@ -27,7 +27,7 @@ I did a master's in computational linguistics at Indiana University with [Damir 
 ---
 
 
-Primary Research:
+Research:
 
 **Gradual Forgetting: Logarithmic Compression for Extending Transformer Context Windows** \[paper\] Dickson, B., & Tiganj, Z. (in press). Gradual forgetting: Logarithmic compression for extending transformer context windows. In First Workshop on CogInterp: Interpreting Cognition in Deep Learning Models (NeurIPS 2025). 
 
@@ -43,6 +43,26 @@ Primary Research:
 
 
 ---
+
+More Research:
+
+**Advancing Adverse Drug Event Detection in Social Media Through Knowledge Graph and GraphRAG LLM Architectures** [[poster]](../assets/ade.pdf) Davis, A., Dickson, B., Cavar, D., Valdez, D., & Tyers, F. (2025). Advancing Adverse Drug Event Detection in Social Media Through Knowledge Graph and GraphRAG LLM Architectures [Poster presentation]. American Academy of Health Behavior (AAHB), San Diego, CA, United States.
+
+**A Two-Stage NLP System for Extracting and Normalizing Adverse Drug Events from Tweets.** [[paper]](https://aclanthology.org/2024.smm4h-1.27.pdf) Davis, A., Dickson, B., & Kubler, S. (2024). A Two-Stage NLP System for Extracting and Normalizing Adverse Drug Events from Tweets. In Proceedings of the 9th Social Media Mining for Health Research and Applications (SMM4H 2024) Workshop and Shared Tasks, pages 117–120, Bangkok, Thailand. Association for Computational Linguistics. 
+
+**Computing Ellipsis Constructions: Comparing Classical NLP and LLM Approaches** [[paper]](https://openpublishing.library.umass.edu/scil/article/id/2147/) Cavar, D., Tiganj, Z., Mompelat, L. V., & Dickson, B. Computing Ellipsis Constructions: Comparing Classical NLP and LLM Approaches. Society for Computation in Linguistics 7(1), 217–226 (2024). https://doi.org/10.7275/scil.2147
+
+**Event sequencing annotation with TIE-ML** [[paper]](https://aclanthology.org/2022.isa-1.5/) Cavar, D., Aljubailan, A., Mompelat, L., Won, Y., Dickson, B., Fort, M., Davis, A., & Kim, S. (2022). Event sequencing annotation with TIE-ML. In Proceedings of the 18th Joint ACL - ISO Workshop on Interoperable Semantic Annotation within LREC2022 (pp. 33–41). Marseille, France: European Language Resources Association.
+
+**Temporal Information and Event Markup Language: TIE-ML Markup Process and Schema Version 1.0** [[paper]](https://www.thinkmind.org/index.php?view=article&articleid=semapro_2021_1_60_30029) Cavar, D., Dickson, B., Aljubailan, A., & Kim, S. (2021). Temporal Information and Event Markup Language: TIE-ML Markup Process and Schema Version 1.0. In Proceedings of the 15th International Conference on Advances in Semantic Processing (SEMAPRO 2021), pages 29-36, Barcelona, Spain.
+
+---
+
+More More Interests:
+
+ - video games, card games, racket sports, formula 1, indycar, gt racing, weightlifting, gojo 
+
+--- 
 
 
 Teaching:
