@@ -11,37 +11,29 @@ dicksonb [at] iu [dot] edu
 
 Hi, I'm a PhD student in computer science at Indiana University working with [Zoran Tiganj](https://homes.luddy.indiana.edu/ztiganj/).
 
-Interests:
+I'm interested in:
 
  - attention, memory, long-context modeling, hybrid models, cognitive science
-
-More Interests:
-
- - llm training methodology, architecture, open models, distributed training, retrieval 
+ - llm training methodology, architecture, open models, distributed training
  - prepretraining, pretraining, postprepreposttraining, mid-training
 
-Previously: 
-
-I did a master's in computational linguistics at Indiana University with [Damir Cavar](https://damir.cavar.me/) in the [NLP Lab](https://nlp-lab.org/) working on time and event reasoning, and applied NLP with knowledge graphs and ontologies, and before that did my bachelor's at Michigan State University where I studied linguistics, TESOL, Chinese, and Korean, and did a summer language program at Harbin Institute of Technology.
+Previously I did a master's in computational linguistics at Indiana University with [Damir Cavar](https://damir.cavar.me/) in the [NLP Lab](https://nlp-lab.org/) working on time and event reasoning, and knowledge graphs and ontologies, and before that did my bachelor's at Michigan State University where I studied linguistics, TESOL, Chinese, and Korean, and did a summer language program at Harbin Institute of Technology.
 
 ---
 
-
 Research:
-
-**Gradual Forgetting: Logarithmic Compression for Extending Transformer Context Windows** \[paper\] Dickson, B., & Tiganj, Z. (in press). Gradual forgetting: Logarithmic compression for extending transformer context windows. In First Workshop on CogInterp: Interpreting Cognition in Deep Learning Models (NeurIPS 2025). 
 
 ![prof](../assets/images/sith.png){: width="40%" height="auto"}
 
-
-**Time-Local Transformer** [[paper]](https://link.springer.com/article/10.1007/s42113-025-00253-9)[[code]](https://github.com/cogneuroai/time-local-transformer) Dickson, B., Mochizuki-Freeman, J., Kabir, M.R., Tiganj, Z. Time-Local Transformer. Comput Brain Behav (2025). https://doi.org/10.1007/s42113-025-00253-9
+**Gradual Forgetting: Logarithmic Compression for Extending Transformer Context Windows** \[paper\] Dickson, B., & Tiganj, Z. Gradual forgetting: Logarithmic compression for extending transformer context windows. In First Workshop on CogInterp: Interpreting Cognition in Deep Learning Models (NeurIPS 2025). 
 
 ![prof](../assets/images/timelocal.png){: width="40%" height="auto"}
 
-
-**Comparing Perceptual Judgments in Large Multimodal Models and Humans** [[paper]](https://link.springer.com/article/10.3758/s13428-025-02728-w)[[code]](https://github.com/cogneuroai/multimodal-models-rock)[[website]](https://cognlp.com) Dickson, B.\*, Maini, S. S.\*, Sanders, C., Nosofsky, R., & Tiganj, Z. Comparing Perceptual Judgments in Large Multimodal Models and Humans. Behavior Research Methods 57, 203 (2025). https://doi.org/10.3758/s13428-025-02728-w
+**Time-Local Transformer** [[paper]](https://link.springer.com/article/10.1007/s42113-025-00253-9)[[code]](https://github.com/cogneuroai/time-local-transformer) Dickson, B., Mochizuki-Freeman, J., Kabir, M.R., Tiganj, Z. Time-Local Transformer. Comput Brain Behav (2025). https://doi.org/10.1007/s42113-025-00253-9
 
 ![prof](../assets/images/rock.png){: width="40%" height="auto"}
+
+**Comparing Perceptual Judgments in Large Multimodal Models and Humans** [[paper]](https://link.springer.com/article/10.3758/s13428-025-02728-w)[[code]](https://github.com/cogneuroai/multimodal-models-rock)[[website]](https://cognlp.com) Dickson, B.\*, Maini, S. S.\*, Sanders, C., Nosofsky, R., & Tiganj, Z. Comparing Perceptual Judgments in Large Multimodal Models and Humans. Behavior Research Methods 57, 203 (2025). https://doi.org/10.3758/s13428-025-02728-w
 
 
 ---
