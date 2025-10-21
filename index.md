@@ -41,6 +41,8 @@ Research:
 
 **Comparing Perceptual Judgments in Large Multimodal Models and Humans** [[paper]](https://link.springer.com/article/10.3758/s13428-025-02728-w)[[code]](https://github.com/cogneuroai/multimodal-models-rock)[[website]](https://cognlp.com) Dickson, B.\*, Maini, S. S.\*, Sanders, C., Nosofsky, R., & Tiganj, Z. Comparing Perceptual Judgments in Large Multimodal Models and Humans. Behavior Research Methods 57, 203 (2025). https://doi.org/10.3758/s13428-025-02728-w
 
+![prof](../assets/images/rock.png){: width="40%" height="auto"}
+
 
 ---
 
