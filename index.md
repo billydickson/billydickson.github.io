@@ -30,11 +30,13 @@ I did a master's in computational linguistics at Indiana University with [Damir 
 Research:
 
 **Gradual Forgetting: Logarithmic Compression for Extending Transformer Context Windows** \[paper\] Dickson, B., & Tiganj, Z. (in press). Gradual forgetting: Logarithmic compression for extending transformer context windows. In First Workshop on CogInterp: Interpreting Cognition in Deep Learning Models (NeurIPS 2025). 
-![prof](../assets/images/sith.png){: width="20%" height="auto"}
+
+![prof](../assets/images/sith.png){: width="40%" height="auto"}
 
 
 **Time-Local Transformer** [[paper]](https://link.springer.com/article/10.1007/s42113-025-00253-9)[[code]](https://github.com/cogneuroai/time-local-transformer) Dickson, B., Mochizuki-Freeman, J., Kabir, M.R., Tiganj, Z. Time-Local Transformer. Comput Brain Behav (2025). https://doi.org/10.1007/s42113-025-00253-9
-![prof](../assets/images/timelocal.png){: width="20%" height="auto"}
+
+![prof](../assets/images/timelocal.png){: width="40%" height="auto"}
 
 
 **Comparing Perceptual Judgments in Large Multimodal Models and Humans** [[paper]](https://link.springer.com/article/10.3758/s13428-025-02728-w)[[code]](https://github.com/cogneuroai/multimodal-models-rock)[[website]](https://cognlp.com) Dickson, B.\*, Maini, S. S.\*, Sanders, C., Nosofsky, R., & Tiganj, Z. Comparing Perceptual Judgments in Large Multimodal Models and Humans. Behavior Research Methods 57, 203 (2025). https://doi.org/10.3758/s13428-025-02728-w
@@ -58,7 +60,7 @@ More Research:
 
 More More Interests:
 
- - video games, card games, racket sports, formula 1, indycar, honda civic eg6 k20, weightlifting, gojo 
+ -  formula 1, racket sports, video games, card games, indycar, kalaOK, honda civic eg6, weightlifting, gojo 
 
 --- 
 
