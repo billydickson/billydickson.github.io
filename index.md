@@ -27,6 +27,10 @@ Research:
 
 **Gradual Forgetting: Logarithmic Compression for Extending Transformer Context Windows** \[paper\] Dickson, B., & Tiganj, Z. Gradual forgetting: Logarithmic compression for extending transformer context windows. In First Workshop on CogInterp: Interpreting Cognition in Deep Learning Models (NeurIPS 2025). 
 
+![prof](../assets/images/rocks2.png){: width="40%" height="auto"}
+
+**Vision-language models learn the geometry of human perceptual space** \[paper\] Sanders, C., Dickson, B., Maini, S. S., Nosofsky, R., Tiganj, Z. Vision-language models learn the geometry of human perceptual space. arXiv preprint (2025)
+
 ![prof](../assets/images/timelocal.png){: width="40%" height="auto"}
 
 **Time-Local Transformer** [[paper]](https://link.springer.com/article/10.1007/s42113-025-00253-9)[[code]](https://github.com/cogneuroai/time-local-transformer) Dickson, B., Mochizuki-Freeman, J., Kabir, M.R., Tiganj, Z. Time-Local Transformer. Comput Brain Behav (2025). https://doi.org/10.1007/s42113-025-00253-9
