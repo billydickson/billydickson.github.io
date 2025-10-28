@@ -23,28 +23,27 @@ Previously I did a master's in computational linguistics at Indiana University w
 
 Research:
 
-![prof](../assets/images/sith.png){: width="20%" height="auto"} **Gradual Forgetting: Logarithmic Compression for Extending Transformer Context Windows** [[paper]](https://arxiv.org/abs/2510.22109) \\ Billy Dickson, Zoran Tiganj \\ First Workshop on CogInterp: Interpreting Cognition in Deep Learning Models @ NeurIPS (2025). 
+**Gradual Forgetting: Logarithmic Compression for Extending Transformer Context Windows** [[paper]](https://arxiv.org/abs/2510.22109)<br>Billy Dickson, Zoran Tiganj<br>First Workshop on CogInterp: Interpreting Cognition in Deep Learning Models @ NeurIPS (2025). 
 
-![prof](../assets/images/timelocal.png){: width="20%" height="auto"} **Time-Local Transformer** [[paper]](https://link.springer.com/article/10.1007/s42113-025-00253-9) \\ Billy Dickson, James Mochizuki-Freeman, Md Rysul Kabir, Zoran Tiganj. \\ Computational Brain & Behavior (2025). https://doi.org/10.1007/s42113-025-00253-9
+**Time-Local Transformer** [[paper]](https://link.springer.com/article/10.1007/s42113-025-00253-9)<br>Billy Dickson, James Mochizuki-Freeman, Md Rysul Kabir, Zoran Tiganj.<br>Computational Brain & Behavior (2025). https://doi.org/10.1007/s42113-025-00253-9
 
-![prof](../assets/images/rocks2.png){: width="20%" height="auto"} **Vision-language models learn the geometry of human perceptual space** [[paper]](https://arxiv.org/abs/2510.20859) \\ Craig Sanders, Billy Dickson, Sahaj Singh Maini, Robert Nosofsky, Zoran Tiganj. \\ arXiv preprint arXiv:2510.20859 (2025).
+**Vision-language models learn the geometry of human perceptual space** [[paper]](https://arxiv.org/abs/2510.20859)<br>Craig Sanders, Billy Dickson, Sahaj Singh Maini, Robert Nosofsky, Zoran Tiganj.<br>arXiv preprint arXiv:2510.20859 (2025).
 
-![prof](../assets/images/rock.png){: width="20%" height="auto"} **Comparing Perceptual Judgments in Large Multimodal Models and Humans** [[paper]](https://link.springer.com/article/10.3758/s13428-025-02728-w) \\ Billy Dickson\*, Sahaj Singh Maini\*, Craig Sanders, Robert Nosofsky, Zoran Tiganj. \\ Behavior Research Methods (2025). https://doi.org/10.3758/s13428-025-02728-w
-
+**Comparing Perceptual Judgments in Large Multimodal Models and Humans** [[paper]](https://link.springer.com/article/10.3758/s13428-025-02728-w)<br>Billy Dickson\*, Sahaj Singh Maini\*, Craig Sanders, Robert Nosofsky, Zoran Tiganj.<br>Behavior Research Methods (2025). https://doi.org/10.3758/s13428-025-02728-w
 
 ---
 
 More Research:
 
-**Advancing Adverse Drug Event Detection in Social Media Through Knowledge Graph and GraphRAG LLM Architectures** [[poster]](../assets/ade.pdf) Andrew Davis, Billy Dickson, Damir Cavar, Danny Valdez, Francis Tyers. \\ American Academy of Health Behavior (2025).
+**Advancing Adverse Drug Event Detection in Social Media Through Knowledge Graph and GraphRAG LLM Architectures** [[poster]](../assets/ade.pdf) Andrew Davis, Billy Dickson, Damir Cavar, Danny Valdez, Francis Tyers.<br>American Academy of Health Behavior (2025).
 
-**A Two-Stage NLP System for Extracting and Normalizing Adverse Drug Events from Tweets.** [[paper]](https://aclanthology.org/2024.smm4h-1.27.pdf) Andrew Davis, Billy Dickson, Sandra Kubler. \\ In Proceedings of the 9th Social Media Mining for Health Research and Applications Workshop and Shared Tasks, Association for Computational Linguistics (2025). 
+**A Two-Stage NLP System for Extracting and Normalizing Adverse Drug Events from Tweets.** [[paper]](https://aclanthology.org/2024.smm4h-1.27.pdf) Andrew Davis, Billy Dickson, Sandra Kubler.<br>In Proceedings of the 9th Social Media Mining for Health Research and Applications Workshop and Shared Tasks, Association for Computational Linguistics (2025). 
 
-**Computing Ellipsis Constructions: Comparing Classical NLP and LLM Approaches** [[paper]](https://openpublishing.library.umass.edu/scil/article/id/2147/) Damir Cavar, Zoran Tiganj, Ludovic Vetea Mompelat, Billy Dickson \\ Society for Computation in Linguistics (2024). https://doi.org/10.7275/scil.2147
+**Computing Ellipsis Constructions: Comparing Classical NLP and LLM Approaches** [[paper]](https://openpublishing.library.umass.edu/scil/article/id/2147/) Damir Cavar, Zoran Tiganj, Ludovic Vetea Mompelat, Billy Dickson<br>Society for Computation in Linguistics (2024). https://doi.org/10.7275/scil.2147
 
-**Event sequencing annotation with TIE-ML** [[paper]](https://aclanthology.org/2022.isa-1.5/) Damir Cavar, Ali Aljubailan, Ludo Vetea Mompelat, Yuna Won, Billy Dickson, Matthew Fort, Andrew Davis, Soyoung Kim \\ In Proceedings of the 18th Joint ACL - ISO Workshop on Interoperable Semantic Annotation @ LREC (2022).
+**Event sequencing annotation with TIE-ML** [[paper]](https://aclanthology.org/2022.isa-1.5/) Damir Cavar, Ali Aljubailan, Ludo Vetea Mompelat, Yuna Won, Billy Dickson, Matthew Fort, Andrew Davis, Soyoung Kim<br>In Proceedings of the 18th Joint ACL - ISO Workshop on Interoperable Semantic Annotation @ LREC (2022).
 
-**Temporal Information and Event Markup Language: TIE-ML Markup Process and Schema Version 1.0** [[paper]](https://www.thinkmind.org/index.php?view=article&articleid=semapro_2021_1_60_30029) \\ Damir Cavar, Billy Dickson, Ali Aljubailan, Soyoung Kim \\ In Proceedings of the 15th International Conference on Advances in Semantic Processing (2021).
+**Temporal Information and Event Markup Language: TIE-ML Markup Process and Schema Version 1.0** [[paper]](https://www.thinkmind.org/index.php?view=article&articleid=semapro_2021_1_60_30029)<br>Damir Cavar, Billy Dickson, Ali Aljubailan, Soyoung Kim<br>In Proceedings of the 15th International Conference on Advances in Semantic Processing (2021).
 
 ---
 
