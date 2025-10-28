@@ -27,7 +27,7 @@ Research:
 
 [[paper]](https://link.springer.com/article/10.1007/s42113-025-00253-9) **Time-Local Transformer**<br>Billy Dickson, James Mochizuki-Freeman, Md Rysul Kabir, Zoran Tiganj<br>Computational Brain & Behavior (2025)
 
-[[paper]](https://arxiv.org/abs/2510.20859) **Vision-language models learn the geometry of human perceptual space**<br>Craig Sanders, Billy Dickson, Sahaj Singh Maini, Robert Nosofsky, Zoran Tiganj<br>preprint arXiv:2510.20859 (2025)
+[[paper]](https://arxiv.org/abs/2510.20859) **Vision-language models learn the geometry of human perceptual space**<br>Craig Sanders, Billy Dickson, Sahaj Singh Maini, Robert Nosofsky, Zoran Tiganj<br>Preprint arXiv:2510.20859 (2025)
 
 [[paper]](https://link.springer.com/article/10.3758/s13428-025-02728-w) **Comparing Perceptual Judgments in Large Multimodal Models and Humans**<br>Billy Dickson\*, Sahaj Singh Maini\*, Craig Sanders, Robert Nosofsky, Zoran Tiganj<br>Behavior Research Methods (2025)
 

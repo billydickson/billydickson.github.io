@@ -5,3 +5,8 @@
 @import "minima";
 
 html { overflow-y: scroll; }
+
+.wrapper {
+  padding-right: clamp(1.5rem, 5vw, 3rem);
+  padding-left: clamp(1.5rem, 5vw, 3rem);
+}
