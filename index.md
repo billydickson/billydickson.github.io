@@ -13,9 +13,16 @@ Hi, I'm a PhD student in computer science at Indiana University working with [Zo
 
 I'm interested in:
 
- - attention, memory, long-context modeling, hybrid models, cognitive science
- - llm training methodology, architecture, open models, distributed training
- - prepretraining, pretraining, postprepreposttraining, mid-training
+ - attention, memory, long-context modeling
+ - cognitively inspired model evaluations
+ - learning about big huge gigantic llm training methodology, open models, model architecture, optimizers, parallelism techniques, pre-training
+
+Sacred Texts:
+
+ - [The Ultra-Scale Playbook](https://huggingface.co/spaces/nanotron/ultrascale-playbook)
+ - [The Smol Training Playbook](https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook)
+ - [RLHF Book](https://rlhfbook.com/)
+ - [Berserk](https://www.amazon.com/Berserk-Deluxe-1-Kentaro-Miura/dp/1506711987)
 
 Previously I did a master's in computational linguistics at Indiana University with [Damir Cavar](https://damir.cavar.me/) in the [NLP Lab](https://nlp-lab.org/) working on time and event reasoning, and knowledge graphs and ontologies, and before that did my bachelor's at Michigan State University where I studied linguistics, TESOL, Chinese, and Korean, and did a summer language program at Harbin Institute of Technology.
 
@@ -37,8 +44,6 @@ More Research:
 
 **Advancing Adverse Drug Event Detection in Social Media Through Knowledge Graph and GraphRAG LLM Architectures**<br>Andrew Davis, Billy Dickson, Damir Cavar, Danny Valdez, Francis Tyers<br>*American Academy of Health Behavior*<br>2025<br>[[poster]](../assets/ade.pdf)
 
-**A Two-Stage NLP System for Extracting and Normalizing Adverse Drug Events from Tweets.**<br>Andrew Davis, Billy Dickson, Sandra Kubler<br>*9th Social Media Mining for Health Research and Applications Workshop and Shared Tasks, Association for Computational Linguistics*<br>2025<br>[[paper]](https://aclanthology.org/2024.smm4h-1.27.pdf)
-
 **Computing Ellipsis Constructions: Comparing Classical NLP and LLM Approaches**<br>Damir Cavar, Zoran Tiganj, Ludovic Vetea Mompelat, Billy Dickson<br>*Society for Computation in Linguistics*<br>2024<br>[[paper]](https://openpublishing.library.umass.edu/scil/article/id/2147/)
 
 **Event sequencing annotation with TIE-ML**<br>Damir Cavar, Ali Aljubailan, Ludo Vetea Mompelat, Yuna Won, Billy Dickson, Matthew Fort, Andrew Davis, Soyoung Kim<br>*18th Joint ACL - ISO Workshop on Interoperable Semantic Annotation @ LREC*<br>2022<br>[[paper]](https://aclanthology.org/2022.isa-1.5/)
@@ -49,7 +54,7 @@ More Research:
 
 More More Interests:
 
- -  formula 1, racket sports, video games, card games, indycar, kalaOK, honda civic eg6, weightlifting, gojo 
+ -  formula 1, racket sports, video games, card games, indycar, kalaOK, jdm cars, weightlifting, gojo 
 
 --- 
 
@@ -79,3 +84,4 @@ MS, Computational Linguistics, Indiana University, 2022
 
 
 BA, Linguistics, Michigan State University, 2020
+
