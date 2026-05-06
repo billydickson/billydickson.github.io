@@ -14,14 +14,15 @@ Hi, I'm a PhD student in computer science at Indiana University working with [Zo
 I'm interested in:
 
  - attention, memory, long-context modeling
- - cognitively inspired model evaluations
+ - human / ai cognitive alignment & interpretability
  - learning about big huge gigantic llm training methodology, open models, model architecture, optimizers, parallelism techniques, pre-training
 
 Sacred Texts:
 
  - [The Ultra-Scale Playbook](https://huggingface.co/spaces/nanotron/ultrascale-playbook)
- - [The Smol Training Playbook](https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook)
+ - [How to Scale Your Model](https://jax-ml.github.io/scaling-book/)
  - [RLHF Book](https://rlhfbook.com/)
+ - [GPU Glossary](https://modal.com/gpu-glossary)
  - [Berserk](https://www.amazon.com/Berserk-Deluxe-1-Kentaro-Miura/dp/1506711987)
 
 Previously I did a master's in computational linguistics at Indiana University with [Damir Cavar](https://damir.cavar.me/) in the [NLP Lab](https://nlp-lab.org/) working on time and event reasoning, and knowledge graphs and ontologies, and before that did my bachelor's at Michigan State University where I studied linguistics, TESOL, Chinese, and Korean, and did a summer language program at Harbin Institute of Technology.
@@ -38,6 +39,8 @@ Research:
 
 **Comparing Perceptual Judgments in Large Multimodal Models and Humans**<br>Billy Dickson\*, Sahaj Singh Maini\*, Craig Sanders, Robert Nosofsky, Zoran Tiganj<br>*Behavior Research Methods*<br>2025<br>[[paper]](https://link.springer.com/article/10.3758/s13428-025-02728-w) 
 
+Temporal Dependencies in In-Context Learning: The Role of Induction Heads<br>Anooshka Bajaj, Deven Mahesh Mistry, Sahaj Singh Maini, Yash Aggarwal, Billy Dickson, Zoran Tiganj<br>Preprint arXiv:2604.01094<br>2026<br>[paper](https://arxiv.org/abs/2604.01094)
+
 ---
 
 More Research:
@@ -52,9 +55,9 @@ More Research:
 
 ---
 
-More More Interests:
+More Interests:
 
- -  formula 1, racket sports, video games, card games, indycar, kalaOK, jdm cars, weightlifting, gojo 
+ -  formula 1, racket sports, indycar, card games, kalaOK, jdm cars, video games, weightlifting, gojo 
 
 --- 
 
