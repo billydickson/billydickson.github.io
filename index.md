@@ -39,7 +39,7 @@ Research:
 
 **Comparing Perceptual Judgments in Large Multimodal Models and Humans**<br>Billy Dickson\*, Sahaj Singh Maini\*, Craig Sanders, Robert Nosofsky, Zoran Tiganj<br>*Behavior Research Methods*<br>2025<br>[[paper]](https://link.springer.com/article/10.3758/s13428-025-02728-w) 
 
-Temporal Dependencies in In-Context Learning: The Role of Induction Heads<br>Anooshka Bajaj, Deven Mahesh Mistry, Sahaj Singh Maini, Yash Aggarwal, Billy Dickson, Zoran Tiganj<br>Preprint arXiv:2604.01094<br>2026<br>[paper](https://arxiv.org/abs/2604.01094)
+**Temporal Dependencies in In-Context Learning: The Role of Induction Heads**<br>Anooshka Bajaj, Deven Mahesh Mistry, Sahaj Singh Maini, Yash Aggarwal, Billy Dickson, Zoran Tiganj<br>*Preprint arXiv:2604.01094*<br>2026<br>[[paper]](https://arxiv.org/abs/2604.01094)
 
 ---
 
