@@ -47,7 +47,11 @@ More Research:
 
 **Advancing Adverse Drug Event Detection in Social Media Through Knowledge Graph and GraphRAG LLM Architectures**<br>Andrew Davis, Billy Dickson, Damir Cavar, Danny Valdez, Francis Tyers<br>*American Academy of Health Behavior*<br>2025<br>[[poster]](../assets/ade.pdf)
 
+**Ellipsis in Arabic: Using machine learning to detect and predict elided words**<br>Muhammad S. Abdo, Damir Cavar, Billy Dickson, Attia Youseif<br>*Arabic Linguistics*<br>2025<br>[[paper]](https://www.jbe-platform.com/content/journals/10.1075/arli.00013.abd)
+
 **Computing Ellipsis Constructions: Comparing Classical NLP and LLM Approaches**<br>Damir Cavar, Zoran Tiganj, Ludovic Vetea Mompelat, Billy Dickson<br>*Society for Computation in Linguistics*<br>2024<br>[[paper]](https://openpublishing.library.umass.edu/scil/article/id/2147/)
+
+**ADE Oracle at SMM4H 2024: A Two-Stage NLP System for Extracting and Normalizing Adverse Drug Events from Tweets**<br>Andrew S. Davis, Billy Dickson, Sandra Kubler<br>*9th Social Media Mining for Health Research and Applications (SMM4H 2024) Workshop and Shared Tasks @ ACL 2024*<br>2024<br>[[paper]](https://aclanthology.org/2024.smm4h-1.27/)
 
 **Event sequencing annotation with TIE-ML**<br>Damir Cavar, Ali Aljubailan, Ludo Vetea Mompelat, Yuna Won, Billy Dickson, Matthew Fort, Andrew Davis, Soyoung Kim<br>*18th Joint ACL - ISO Workshop on Interoperable Semantic Annotation @ LREC*<br>2022<br>[[paper]](https://aclanthology.org/2022.isa-1.5/)
 
