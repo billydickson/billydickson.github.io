@@ -4,67 +4,51 @@
 
 layout: home
 ---
+
 ![prof](../assets/images/prof2.jpg){: width="20%" height="auto"}
 ![brrrr](../assets/images/brrrr.jpg){: width="250" height="auto"}
 
 dicksonb [at] iu [dot] edu
 
-Hi, I'm a PhD student in computer science at Indiana University working with [Zoran Tiganj](https://homes.luddy.indiana.edu/ztiganj/).
+Hi, I'm a PhD candidate in computer science at Indiana University working with [Zoran Tiganj](https://homes.luddy.indiana.edu/ztiganj/).
 
 I'm interested in:
 
- - attention, memory, long-context modeling
- - human / ai cognitive alignment & interpretability
- - learning about big huge gigantic llm training methodology, open models, model architecture, optimizers, parallelism techniques, pre-training
+- attention, memory, long-context modeling
+- big huge gigantic distributed llm training methodology, optimizers, model architecture, efficient training, pre-training
+- human / ai alignment
 
 Sacred Texts:
 
- - [The Ultra-Scale Playbook](https://huggingface.co/spaces/nanotron/ultrascale-playbook)
- - [How to Scale Your Model](https://jax-ml.github.io/scaling-book/)
- - [RLHF Book](https://rlhfbook.com/)
- - [GPU Glossary](https://modal.com/gpu-glossary)
- - [Berserk](https://www.amazon.com/Berserk-Deluxe-1-Kentaro-Miura/dp/1506711987)
+- [The Ultra-Scale Playbook](https://huggingface.co/spaces/nanotron/ultrascale-playbook)
+- [How to Scale Your Model](https://jax-ml.github.io/scaling-book/)
+- [RLHF Book](https://rlhfbook.com/)
+- [GPU Glossary](https://modal.com/gpu-glossary)
+- [Berserk](https://www.amazon.com/Berserk-Deluxe-1-Kentaro-Miura/dp/1506711987)
 
-Previously I did a master's in computational linguistics at Indiana University with [Damir Cavar](https://damir.cavar.me/) in the [NLP Lab](https://nlp-lab.org/) working on time and event reasoning, and knowledge graphs and ontologies, and before that did my bachelor's at Michigan State University where I studied linguistics, TESOL, Chinese, and Korean, and did a summer language program at Harbin Institute of Technology.
-
----
-
-Research:
-
-**Gradual Forgetting: Logarithmic Compression for Extending Transformer Context Windows**<br>Billy Dickson, Zoran Tiganj<br>*First Workshop on CogInterp: Interpreting Cognition in Deep Learning Models @ NeurIPS*<br>2025<br>[[paper]](https://arxiv.org/abs/2510.22109)  
-
-**Time-Local Transformer**<br>Billy Dickson, James Mochizuki-Freeman, Md Rysul Kabir, Zoran Tiganj<br>*Computational Brain & Behavior*<br>2025<br>[[paper]](https://link.springer.com/article/10.1007/s42113-025-00253-9) 
-
-**Vision-language models learn the geometry of human perceptual space**<br>Craig Sanders, Billy Dickson, Sahaj Singh Maini, Robert Nosofsky, Zoran Tiganj<br>*Preprint arXiv:2510.20859*<br>2025<br>[[paper]](https://arxiv.org/abs/2510.20859) 
-
-**Comparing Perceptual Judgments in Large Multimodal Models and Humans**<br>Billy Dickson\*, Sahaj Singh Maini\*, Craig Sanders, Robert Nosofsky, Zoran Tiganj<br>*Behavior Research Methods*<br>2025<br>[[paper]](https://link.springer.com/article/10.3758/s13428-025-02728-w) 
-
-**Temporal Dependencies in In-Context Learning: The Role of Induction Heads**<br>Anooshka Bajaj, Deven Mahesh Mistry, Sahaj Singh Maini, Yash Aggarwal, Billy Dickson, Zoran Tiganj<br>*Preprint arXiv:2604.01094*<br>2026<br>[[paper]](https://arxiv.org/abs/2604.01094)
+Before my PhD I did an MS in computational linguistics at IU, and before that I did a BA at Michigan State University where I studied linguistics, CS, TESOL, Chinese, and Korean, and did a summer language program at Harbin Institute of Technology. While at MSU I had a brief stint playing competitive CSGO, and when I was younger I played football, baseball, and tennis, and had a short career in chess where I took first place in my regional elementary school chess tournament and retired.
 
 ---
 
-More Research:
+Selected Research:
 
-**Advancing Adverse Drug Event Detection in Social Media Through Knowledge Graph and GraphRAG LLM Architectures**<br>Andrew Davis, Billy Dickson, Damir Cavar, Danny Valdez, Francis Tyers<br>*American Academy of Health Behavior*<br>2025<br>[[poster]](../assets/ade.pdf)
+**Loss Scaling and Long-Context Retrieval Across Attention Variants**<br>Billy Dickson, Zoran Tiganj<br>*Workshop on Methods and Opportunities at Small Scale @ COLM*<br>2026<br>[[paper]](https://openreview.net/pdf?id=A7HxTzTM6t)
 
-**Ellipsis in Arabic: Using machine learning to detect and predict elided words**<br>Muhammad S. Abdo, Damir Cavar, Billy Dickson, Attia Youseif<br>*Arabic Linguistics*<br>2025<br>[[paper]](https://www.jbe-platform.com/content/journals/10.1075/arli.00013.abd)
+**Gradual Forgetting: Logarithmic Compression for Extending Transformer Context Windows**<br>Billy Dickson, Zoran Tiganj<br>*First Workshop on CogInterp: Interpreting Cognition in Deep Learning Models @ NeurIPS*<br>2025<br>[[paper]](https://arxiv.org/abs/2510.22109)
 
-**Computing Ellipsis Constructions: Comparing Classical NLP and LLM Approaches**<br>Damir Cavar, Zoran Tiganj, Ludovic Vetea Mompelat, Billy Dickson<br>*Society for Computation in Linguistics*<br>2024<br>[[paper]](https://openpublishing.library.umass.edu/scil/article/id/2147/)
+**Time-Local Transformer**<br>Billy Dickson, James Mochizuki-Freeman, Md Rysul Kabir, Zoran Tiganj<br>*Computational Brain & Behavior*<br>2025<br>[[paper]](https://link.springer.com/article/10.1007/s42113-025-00253-9)
 
-**ADE Oracle at SMM4H 2024: A Two-Stage NLP System for Extracting and Normalizing Adverse Drug Events from Tweets**<br>Andrew S. Davis, Billy Dickson, Sandra Kubler<br>*9th Social Media Mining for Health Research and Applications (SMM4H 2024) Workshop and Shared Tasks @ ACL 2024*<br>2024<br>[[paper]](https://aclanthology.org/2024.smm4h-1.27/)
+**Vision-language models learn the geometry of human perceptual space**<br>Craig Sanders, Billy Dickson, Sahaj Singh Maini, Robert Nosofsky, Zoran Tiganj<br>*Preprint arXiv:2510.20859*<br>2025<br>[[paper]](https://arxiv.org/abs/2510.20859)
 
-**Event sequencing annotation with TIE-ML**<br>Damir Cavar, Ali Aljubailan, Ludo Vetea Mompelat, Yuna Won, Billy Dickson, Matthew Fort, Andrew Davis, Soyoung Kim<br>*18th Joint ACL - ISO Workshop on Interoperable Semantic Annotation @ LREC*<br>2022<br>[[paper]](https://aclanthology.org/2022.isa-1.5/)
-
-**Temporal Information and Event Markup Language: TIE-ML Markup Process and Schema Version 1.0**<br>Damir Cavar, Billy Dickson, Ali Aljubailan, Soyoung Kim<br>*15th International Conference on Advances in Semantic Processing*<br>2021<br>[[paper]](https://www.thinkmind.org/index.php?view=article&articleid=semapro_2021_1_60_30029)
+**Comparing Perceptual Judgments in Large Multimodal Models and Humans**<br>Billy Dickson\*, Sahaj Singh Maini\*, Craig Sanders, Robert Nosofsky, Zoran Tiganj<br>*Behavior Research Methods*<br>2025<br>[[paper]](https://link.springer.com/article/10.3758/s13428-025-02728-w)
 
 ---
 
 More Interests:
 
- -  formula 1, racket sports, indycar, card games, kalaOK, jdm cars, video games, weightlifting, gojo 
+- formula 1, racket sports, indycar, card games, weightlifting, football
 
---- 
-
+---
 
 Teaching:
 
@@ -78,17 +62,13 @@ Spring 2020, Adult Communicative Focused English (Michigan State University)
 
 ---
 
-
 Education:
 
 PhD, Computer Science, Cognitive Science, Indiana University, ~2027
 
-
 MS, Computer Science, Indiana University, 2025
 
-
 MS, Computational Linguistics, Indiana University, 2022
-
 
 BA, Linguistics, Michigan State University, 2020
 
