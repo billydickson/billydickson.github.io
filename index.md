@@ -26,7 +26,7 @@ Sacred Texts:
 - [GPU Glossary](https://modal.com/gpu-glossary)
 - [Berserk](https://www.amazon.com/Berserk-Deluxe-1-Kentaro-Miura/dp/1506711987)
 
-Before my PhD I did an MS in computational linguistics at IU, and before that I did a BA at Michigan State University where I studied linguistics, CS, TESOL, Chinese, and Korean, and did a summer language program at Harbin Institute of Technology. While at MSU I had a brief stint playing competitive CSGO, and when I was younger I played football, baseball, and tennis, and had a short career in chess where I took first place in my regional elementary school chess tournament and retired.
+Before my PhD, I did an MS in computational linguistics at IU, and before that, I did a BA at Michigan State University where I studied linguistics, CS, TESOL, Chinese, and Korean, and did a summer language program at Harbin Institute of Technology. While at MSU, I had a brief stint playing competitive CSGO, and when I was younger, I played football, baseball, and tennis, and had a short career in chess where I took first place in my regional elementary school chess tournament and retired.
 
 ---
 
