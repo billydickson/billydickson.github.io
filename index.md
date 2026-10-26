@@ -50,6 +50,20 @@ More Interests:
 
 ---
 
+Professional Experience:
+
+Sep 2026 - Present, AI Solutions Engineer, Cook Medical Inc., Bloomington, IN
+
+May 2026 - Aug 2026, Applied Scientist Intern, Microsoft, Redmond WA
+
+Aug 2025 - May 2026, AI Solutions Engineer, Cook Medical Inc., Bloomington, IN
+
+Jan 2021 - Oct 2025, Co-founder, Semiring Inc., Bloomington, IN
+
+Jun 2021 - Aug 2021, Summer Fellow, National Security Innovation Network, Crane, IN
+
+---
+
 Teaching:
 
 Fall 2025, Assistant Instructor, Applied Machine Learning (Indiana University)
