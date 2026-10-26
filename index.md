@@ -5,7 +5,7 @@
 layout: home
 ---
 
-![prof](../assets/images/prof2.jpg){: width="20%" height="auto"}
+![prof](../assets/images/prof2.jpeg){: width="20%" height="auto"}
 ![brrrr](../assets/images/brrrr.jpg){: width="250" height="auto"}
 
 dicksonb [at] iu [dot] edu
