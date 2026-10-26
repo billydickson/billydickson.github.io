@@ -26,7 +26,7 @@ Sacred Texts:
 - [GPU Glossary](https://modal.com/gpu-glossary)
 - [Berserk](https://www.amazon.com/Berserk-Deluxe-1-Kentaro-Miura/dp/1506711987)
 
-Before my PhD, I did an MS in computational linguistics at IU, and before that, I did a BA at Michigan State University where I studied linguistics, CS, TESOL, Chinese, and Korean, and did a summer language program at Harbin Institute of Technology. While at MSU, I had a brief stint playing competitive [CSGO](../assets/images/csgo.jpeg), and when I was younger, I played [football](../assets/images/football.jpeg), baseball, and tennis, and had a short career in chess where I took first place in my regional elementary school chess tournament and retired.
+Before my PhD, I did an MS in computational linguistics at IU, and before that, I did a BA at Michigan State University where I studied linguistics, CS, TESOL, Chinese, and Korean, and did a summer language program at Harbin Institute of Technology. While at MSU, I had a brief stint playing competitive [CSGO](../assets/images/csgo.jpeg), and when I was younger, I played [football](../assets/images/football.jpeg), baseball, tennis, and track, and had a short career in chess where I took first place in my regional elementary school chess tournament and retired.
 
 ---
 
@@ -46,7 +46,7 @@ Selected Research:
 
 More Interests:
 
-- formula 1, racket sports, indycar, card games, weightlifting, football
+- formula 1, racket sports, indycar, card games, weightlifting
 
 ---
 
@@ -66,9 +66,9 @@ Education:
 
 PhD, Computer Science, Cognitive Science, Indiana University, ~2027
 
-MS, Computer Science, Indiana University, 2025
+MS, Computer Science, Indiana University
 
-MS, Computational Linguistics, Indiana University, 2022
+MS, Computational Linguistics, Indiana University
 
-BA, Linguistics, Michigan State University, 2020
+BA, Linguistics, Michigan State University
 
