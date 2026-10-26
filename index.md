@@ -54,7 +54,7 @@ Professional Experience:
 
 Sep 2026 - Present, AI Solutions Engineer, Cook Medical Inc., Bloomington, IN
 
-May 2026 - Aug 2026, Applied Scientist Intern, Microsoft, Redmond WA
+May 2026 - Aug 2026, Applied Scientist Intern, Microsoft, Redmond, WA
 
 Aug 2025 - May 2026, AI Solutions Engineer, Cook Medical Inc., Bloomington, IN
 
