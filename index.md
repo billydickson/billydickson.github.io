@@ -36,7 +36,7 @@ While at MSU, I had a brief stint playing competitive [CSGO](../assets/images/cs
 
 Selected Research:
 
-**Loss Scaling and Long-Context Retrieval Across Attention Variants**<br>Billy Dickson, Zoran Tiganj<br>*Workshop on Methods and Opportunities at Small Scale @ COLM*<br>2026<br>[[paper]](https://openreview.net/pdf?id=A7HxTzTM6t)
+**Loss Scaling and Long-Context Retrieval Across Attention Variants**<br>Billy Dickson, Zoran Tiganj<br>*Workshop on Methods and Opportunities at Small Scale @ COLM*<br>2026<br>[[paper]](https://openreview.net/pdf?id=A7HxTzTM6t) [[poster]]({{ '/assets/Billy-Dickson-Scaling-Laws-Poster.pdf' | relative_url }})
 
 **Gradual Forgetting: Logarithmic Compression for Extending Transformer Context Windows**<br>Billy Dickson, Zoran Tiganj<br>*First Workshop on CogInterp: Interpreting Cognition in Deep Learning Models @ NeurIPS*<br>2025<br>[[paper]](https://arxiv.org/abs/2510.22109)
 
