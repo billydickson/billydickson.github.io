@@ -26,7 +26,7 @@ Sacred Texts:
 - [GPU Glossary](https://modal.com/gpu-glossary)
 - [Berserk](https://www.amazon.com/Berserk-Deluxe-1-Kentaro-Miura/dp/1506711987)
 
-I made this [pre-training field guide]({{ '/pretraining-field-guide.html' | relative_url }}) with help from my best buddies Claude and Codex to keep up with pre-training research. It's quite overkill and still a work in progress, but it's been nice to return to for specific topics.
+I made this [pre-training field guide]({{ '/pretraining-field-guide.html' | relative_url }}) with help from my best buddies Claude and Codex to keep up with pre-training research. It's still a work in progress, but it's been nice to return to for specific topics.
 
 Before my PhD, I did an MS in computational linguistics at IU, and before that, I did a BA at Michigan State University where I studied linguistics, CS, TESOL, Chinese, and Korean, and did a summer language program at Harbin Institute of Technology. 
 
