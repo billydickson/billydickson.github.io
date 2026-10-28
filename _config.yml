@@ -27,6 +27,7 @@ url: "https://dickson.ai" # the base hostname & protocol for your site, e.g. htt
 twitter_username: billygdickson
 github_username:  b-dickson
 linkedin_username: billy-dickson
+google_scholar_url: "https://scholar.google.com/citations?user=s7AmcR4AAAAJ&hl=en"
 
 # Build settings
 theme: minima
